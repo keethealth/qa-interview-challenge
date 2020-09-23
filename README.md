@@ -24,7 +24,7 @@ You are given 3 mock-ups displaying the capabilities of a basic app that lists c
 
 ### Scenario 2
 
-After you raised some concerns, someone uploaded the video titled `cats-bug.mp4`, with the following message:
+After you raised some concerns, someone uploaded the video titled [`cats-bug.mp4`](cats-bug.mp4), with the following message:
 
 > BUG! Deleting last item in list leads to unexpected behavior.
 
