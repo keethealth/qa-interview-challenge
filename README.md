@@ -31,4 +31,4 @@ After you raised some concerns, someone uploaded the video titled [`cats-bug.mp4
 - Confirm what you are seeing is a bug
 - Identify failure points
 - Write a sample bug report based on the video - be as detailed as you can
-- Provide any other information that can be useful to make your bug report better.
+- List any other information that could be useful to make your bug report better.
